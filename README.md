@@ -18,3 +18,6 @@
 
 # Meu servidor foi banido! O que faço?
 - Abra um ticket e reporte o ocorrido. Será reavaliado se será ou nao removido o banimento.
+
+# Servidor de Suporte:
+- https://discord.gg/y4ngNzc4w8
